@@ -1,0 +1,13 @@
+# Project Overview
+
+ This assignment uses two examples to illustrate the **Observer Pattern**:
+
+ ## 1. TutorialsPoint's Initial Illustration
+ The subject alerts each of the observers it has stored in this example, which demonstrates a basic use of the Observer Pattern.  It illustrates the observer pattern's operation using a straightforward methodology.
+
+ Click here to learn more about it: [TutorialsPoint Observer Pattern] (https://www.tutorialspoint.com/observer_pattern.htm/design_pattern)
+
+ ## 2. From Refactoring.Guru, an Advanced Example
+ By keeping distinct observer objects for each event that takes place in the subject and separating concerns, this example expands upon the fundamental idea of the Observer Pattern.  It offers a better framework for managing various kinds of observers and is a more sophisticated implementation than the basic one.
+
+ More information on it may be found here: [Refactoring.Guru Observer Pattern] Observer (https://refactoring.guru/design-patterns)

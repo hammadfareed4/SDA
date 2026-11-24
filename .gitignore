@@ -1,0 +1,21 @@
+# Compiled output
+*.class
+out/
+bin/
+build/
+dist/
+
+# NetBeans
+**/nbproject/private/
+
+# IntelliJ IDEA / VS Code / Eclipse
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
